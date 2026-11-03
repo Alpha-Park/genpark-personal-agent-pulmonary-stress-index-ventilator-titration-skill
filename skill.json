@@ -1,0 +1,17 @@
+{
+  "name": "genpark-personal-agent-pulmonary-stress-index-ventilator-titration-skill",
+  "version": "1.0.0",
+  "description": "Calculates and stratifies mechanical ventilation Stress Index (Paw = a * t^b + c) to distinguish alveolar recruitment (b < 0.95), linear compliance (0.95-1.05), and tidal overdistension (b > 1.05).",
+  "author": "AlphaPark",
+  "license": "Apache-2.0",
+  "main": "client.py",
+  "mcp": "mcp_server.py",
+  "categories": [
+    "personal-agent",
+    "pulmonary",
+    "critical-care",
+    "stress-index",
+    "mechanical-ventilation"
+  ],
+  "dependencies": []
+}
