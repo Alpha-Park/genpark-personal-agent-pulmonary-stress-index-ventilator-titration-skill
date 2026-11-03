@@ -1,0 +1,4 @@
+# Zero external runtime dependencies - pure Python standard library only!
+# Optional development dependencies:
+# pytest>=7.0.0
+# flake8>=4.0.0
